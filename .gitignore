@@ -1,0 +1,8 @@
+# .gitignore file for WSL2-nfs-server setup
+#
+# John Haroian - c14029
+# Microchip
+# November 3, 2021
+
+# ignore any vagrant working directory
+.vagrant
